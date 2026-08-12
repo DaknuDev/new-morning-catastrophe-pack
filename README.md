@@ -20,15 +20,16 @@ promoted, so testers are never forced onto an unfinished developer update.
 
 ## Tester installation
 
-1. Install Prism Launcher.
-2. Import the `NMC-Tester-Prism.zip` supplied through the NMC Discord.
-3. Sign into Minecraft and launch the imported instance.
-4. Packwiz downloads the pack from the stable channel.
-5. If the **Failed file downloads** window appears, select **Open missing
-   mods** and download each requested file from its official CurseForge page.
-6. In Prism, right-click the NMC instance, select **Folder**, and place the
-   downloaded, unextracted `.jar` files in `minecraft/mods`.
-7. Return to Packwiz and select **Continue**.
+Download the stable tester installer:
+
+**[Download NMC-Tester-Prism.zip](https://daknudev.github.io/new-morning-catastrophe-pack/downloads/NMC-Tester-Prism.zip)**
+
+SHA-256: `3A5CACA3C4204A1512CDC202B9A91EF1244CA610C18F11B38E9A9CD532CCDBC5`
+
+Keep the file zipped, then import it using **Prism Launcher → Add Instance →
+Import**. Follow the complete step-by-step guide in
+**[TESTER_INSTALL.md](TESTER_INSTALL.md)** for Prism setup, the six required
+manual CurseForge files, and migration from the old CurseForge profile.
 
 The initial tested build requires these six manual CurseForge downloads because
 their authors exclude them from third-party API downloads:
