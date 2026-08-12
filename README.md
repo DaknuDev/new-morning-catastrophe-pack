@@ -49,16 +49,30 @@ automatically whenever the Prism instance is launched.
 Use a fresh Prism import. Do not clone the old CurseForge instance, because it
 can retain obsolete mods and configurations.
 
-Multiplayer inventory, character data, advancements, claims, and progression
-remain on the server. With Minecraft closed, players may copy only desired
-personal files from the old profile into the new instance's `minecraft` folder:
+After the new Prism pack reaches the main menu once, close Minecraft and migrate
+the small amount of local data used by server players:
 
-- `options.txt`
-- `servers.dat`
-- `screenshots/`
-- `schematics/`
-- `XaeroWaypoints/`, `XaeroWorldMap/`, or `xaero/`
-- selected singleplayer worlds under `saves/`
+1. In CurseForge, open the old NMC profile's menu and select **Open Folder**.
+2. In Prism, right-click the new NMC instance, select **Folder**, and open its
+   `minecraft` folder.
+3. Copy `servers.dat` from the old folder to the new folder. This preserves the
+   saved names and addresses shown on the Multiplayer screen. It does not store
+   character data or progression.
+4. Copy each Xaero folder that exists: `XaeroWaypoints/`, `XaeroWorldMap/`, or
+   `xaero/`. These preserve local waypoints and explored maps. If the new folder
+   already contains one with the same name, rename the new one with a `-backup`
+   suffix before copying the old one.
+5. Optional: copy `options.txt` to retain keybinds and client preferences. It
+   includes controls, audio, video, language, mouse, accessibility, and
+   resource-pack selection. Skip it for fresh defaults or when changing to a
+   computer with different performance.
+6. Launch Prism, open **Multiplayer**, select the NMC server, and verify the
+   player's progression and Xaero waypoints. Keep the old CurseForge profile
+   until this succeeds.
+
+Multiplayer inventory, character data, advancements, claims, and progression
+remain on the server and require no copying. Singleplayer-world migration is
+handled individually when requested.
 
 Do not copy `mods/`, `config/`, `defaultconfigs/`, `kubejs/`, `datapacks/`,
 `resourcepacks/`, or `shaderpacks/`. Packwiz manages those files.
