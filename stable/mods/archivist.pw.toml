@@ -1,0 +1,16 @@
+name = "Archivist"
+filename = "archivist-forge-1.20.1-1.1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "a4c234319eeaf93326b19455106738c9ed3cff0e21271cc6e93d12d52cc37b651d14a2ef36fe90222f0acffd89d4ccbc75b78688d8d21fe52ba345753cdf0c7b"
+url = "https://cdn.modrinth.com/data/svTEwQMq/versions/jZr8aTOF/archivist-forge-1.20.1-1.1.12.jar"
+[update]
+[update.curseforge]
+file-id = 7979569
+project-id = 1513409
+
+[update.modrinth]
+mod-id = "svTEwQMq"
+version = "jZr8aTOF"

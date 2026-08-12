@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:the_void",
+  "spawners": {
+    "type": "slu:castle_guard",
+    "weight": 1,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

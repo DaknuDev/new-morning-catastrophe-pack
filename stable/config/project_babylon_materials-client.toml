@@ -1,0 +1,24 @@
+
+[hud]
+	#Show the custom armor and toughness HUD next to the hotbar.
+	showCustomCombatHud = true
+	#Hide the vanilla armor bar when the custom combat HUD is enabled.
+	hideVanillaArmorHud = true
+	#Preset position for the custom combat HUD.
+	#Available: LEFT_OF_HOTBAR, RIGHT_OF_HOTBAR, TOP_LEFT, TOP_RIGHT, CUSTOM
+	#Allowed Values: LEFT_OF_HOTBAR, RIGHT_OF_HOTBAR, TOP_LEFT, TOP_RIGHT, CUSTOM
+	combatHudPosition = "LEFT_OF_HOTBAR"
+	#Absolute X position for the custom combat HUD when combatHudPosition=CUSTOM.
+	#Range: -4096 ~ 4096
+	customCombatHudX = 4
+	#Absolute Y position for the custom combat HUD when combatHudPosition=CUSTOM.
+	#Range: -4096 ~ 4096
+	customCombatHudY = 4
+
+[photon]
+	#Photon visual quality mode.
+	#NORMAL keeps full effects.
+	#LITE reduces particle counts, effect lifetime and spawn frequency for better performance.
+	#Allowed Values: NORMAL, LITE
+	photonMode = "NORMAL"
+

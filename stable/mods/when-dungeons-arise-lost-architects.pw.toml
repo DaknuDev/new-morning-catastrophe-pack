@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Lost Architects"
+filename = "LostArchitects-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72b1f38dd236546970c82e931857c9bbc16d5839"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7796767
+project-id = 1493056

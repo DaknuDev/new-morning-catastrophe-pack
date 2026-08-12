@@ -1,0 +1,16 @@
+name = "Not Enough Glyphs"
+filename = "not_enough_glyphs-1.20.1-3.2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "902c913f42702af13827fd3eceebd6c642ace7a78177316a6bff82d0805072fbb0dd637528f1b09d9373006ea1710698e049fcf35d898825eb82f7498a3c1061"
+url = "https://cdn.modrinth.com/data/WgAFDDv0/versions/r7CVtgDb/not_enough_glyphs-1.20.1-3.2.1.1.jar"
+[update]
+[update.curseforge]
+file-id = 5609146
+project-id = 1023517
+
+[update.modrinth]
+mod-id = "WgAFDDv0"
+version = "r7CVtgDb"

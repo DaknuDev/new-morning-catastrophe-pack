@@ -1,0 +1,16 @@
+name = "Epic Fight: Weapons of Miracles Expansion (wom plus)"
+filename = "womplus-20.14.1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "552f3a91191407126bedbbedfe83357e092ac26099ade0de95fb8789d345699a24f51749850e4aa72af1c053fe2315f1cb3d47d3f048ae7a976ccc05e3ce8eea"
+url = "https://cdn.modrinth.com/data/wvXVTWeB/versions/ndHuRYqu/womplus-20.14.1.1.7.jar"
+[update]
+[update.curseforge]
+file-id = 8584070
+project-id = 1587633
+
+[update.modrinth]
+mod-id = "wvXVTWeB"
+version = "ndHuRYqu"

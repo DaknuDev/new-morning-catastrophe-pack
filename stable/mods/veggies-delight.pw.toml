@@ -1,0 +1,16 @@
+name = "Veggies Delight (A Farmer's Delight Add-on)"
+filename = "VeggiesDelight-1.20.1-1.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "ad814f48bb9362cab06a5a7fcb53098cb0da90ae92b6a26abbc6d5a3b2079a845e8363fc7c0f167627b3a6285193e72b318c50fa6057437d01d58c70be54dc2f"
+url = "https://cdn.modrinth.com/data/emQ94xri/versions/fNQAXtVi/VeggiesDelight-1.20.1-1.9.3.jar"
+[update]
+[update.curseforge]
+file-id = 8485290
+project-id = 1082807
+
+[update.modrinth]
+mod-id = "emQ94xri"
+version = "fNQAXtVi"

@@ -1,0 +1,57 @@
+{
+  "Passive_Mobs": [
+    "minecraft:cow",
+    "minecraft:pig",
+    "minecraft:sheep",
+    "minecraft:chicken",
+    "minecraft:horse",
+    "minecraft:donkey",
+    "minecraft:mule",
+    "minecraft:llama",
+    "minecraft:rabbit",
+    "minecraft:cat",
+    "minecraft:dog",
+    "minecraft:fox",
+    "minecraft:axolotl",
+    "minecraft:frog",
+    "minecraft:allay",
+    "minecraft:sniffer",
+    "minecraft:camel",
+    "minecraft:strider"
+  ],
+  "Hostile_Mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:creeper",
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "minecraft:enderman",
+    "minecraft:witch",
+    "minecraft:slime",
+    "minecraft:blaze",
+    "minecraft:ghast",
+    "minecraft:wither_skeleton",
+    "minecraft:guardian",
+    "minecraft:elder_guardian",
+    "minecraft:shulker",
+    "minecraft:phantom",
+    "minecraft:drowned",
+    "minecraft:pillager",
+    "minecraft:ravager",
+    "minecraft:hoglin",
+    "minecraft:piglin_brute",
+    "minecraft:warden",
+    "minecraft:breeze"
+  ],
+  "Villagers": [
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    "minecraft:zombie_villager"
+  ],
+  "Block_Entities": [
+    "minecraft:armor_stand",
+    "minecraft:item_frame",
+    "minecraft:glow_item_frame",
+    "minecraft:painting"
+  ]
+}

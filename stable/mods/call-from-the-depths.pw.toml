@@ -1,0 +1,13 @@
+name = "Call from the depths - Sculk Dimension"
+filename = "callfromthedepth_-1.22.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcbe0decae1c03b1dc245014ac9f9923b1a93c89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8608390
+project-id = 1013658

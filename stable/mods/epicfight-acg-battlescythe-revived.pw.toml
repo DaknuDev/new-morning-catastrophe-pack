@@ -1,0 +1,16 @@
+name = "EpicFight: ACG Battlescythe - Revived"
+filename = "acgbattlescytherevived-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "28977b1c2e12e21411387f3d5ccc515d69a4ebedcb608d39911365a936a762451a1724160a7698ad312891fff28b87e6a064abc59e55adbbe160acef97d42199"
+url = "https://cdn.modrinth.com/data/xvGM0ipK/versions/tbDni2fq/acgbattlescytherevived-1.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 7742473
+project-id = 1483383
+
+[update.modrinth]
+mod-id = "xvGM0ipK"
+version = "tbDni2fq"

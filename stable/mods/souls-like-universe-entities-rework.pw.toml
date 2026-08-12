@@ -1,0 +1,13 @@
+name = "souls like universe entities rework"
+filename = "slu_9990.3.1.20.1-remade (boss update).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c0b36fbe4727fd64dc6b6993bfd5b1ce41d81fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8207206
+project-id = 1563597

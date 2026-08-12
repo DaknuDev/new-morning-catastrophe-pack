@@ -1,0 +1,17 @@
+
+[General]
+
+	[General."Candy Conjurist"]
+		#How much Max Health Candy Conjurists have, Default: 280.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		candyConjuristHealth = 280.0
+		#How much natural Armor Candy Conjurists have, Default: 6.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		candyConjuristArmor = 6.0
+		#How much following/detection range Candy Conjurists have, Default: 32.0
+		#Range: 1.0 ~ 2048.0
+		candyConjuristFollowRange = 32.0
+		#How much damage Candy Conjurists deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		candyConjuristDamage = 6.0
+

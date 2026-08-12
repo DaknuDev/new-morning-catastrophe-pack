@@ -1,0 +1,13 @@
+name = "Epic Fight x Better Lock On: Movement & Camera Fixes"
+filename = "lockonmovementfix-forge-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bd589babcf81635db45de6628baf57df777faaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8389827
+project-id = 1511653

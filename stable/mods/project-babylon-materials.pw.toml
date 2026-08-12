@@ -1,0 +1,13 @@
+name = "Project Babylon - Materials"
+filename = "project_babylon_materials-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c77752160cc8777cc7c8739b362a261d51cc6d33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8393709
+project-id = 1482989

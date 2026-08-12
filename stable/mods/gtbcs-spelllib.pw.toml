@@ -1,0 +1,16 @@
+name = "GTBC's SpellLib/API"
+filename = "gtbcs_spell_lib-1.6.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "e5e3b635b53fafd718100f71cdf7e62f6e788e24c8a5b2a52a001fef42ba632bd4f4eee994ac33ff7f9d1e1dd38e5bfd4fbe1bfb3f19a855b833821d1d496d90"
+url = "https://cdn.modrinth.com/data/wXoQ9BqX/versions/hjx28Epa/gtbcs_spell_lib-1.6.0-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8574528
+project-id = 1194714
+
+[update.modrinth]
+mod-id = "wXoQ9BqX"
+version = "hjx28Epa"

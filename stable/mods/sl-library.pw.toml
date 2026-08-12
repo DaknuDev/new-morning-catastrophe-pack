@@ -1,0 +1,13 @@
+name = "SL Library"
+filename = "SL-Library-1.5.3-1.20.1+[Forge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4678f1de2c2d8c1da8f127c7695b5f38667f2396"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8606758
+project-id = 1497274

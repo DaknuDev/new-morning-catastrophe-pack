@@ -1,0 +1,16 @@
+name = "Enhanced Celestials 2: Shader Support"
+filename = "Enhanced-Celestials-2-Shaders-Forge-1.20.1-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "9153f8329d3aff5403456763109e8b895189dd712e99d9927e7df3b2e4b8a2a5ed89db35a380a9da7485922301835bc706b278d11624f54c13871672a5c3db6f"
+url = "https://cdn.modrinth.com/data/6cEnKtmZ/versions/XvFAbnF0/Enhanced-Celestials-2-Shaders-Forge-1.20.1-1.0.0.1.jar"
+[update]
+[update.curseforge]
+file-id = 8592231
+project-id = 1621851
+
+[update.modrinth]
+mod-id = "6cEnKtmZ"
+version = "XvFAbnF0"

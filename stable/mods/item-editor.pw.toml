@@ -1,0 +1,16 @@
+name = "Item Editor"
+filename = "itemeditor-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "2c4bd02949a024b900d3797d1c4a418ebc19b709ff986b97df75dd4502869771bb96f25efb6f25a4f20179587b839da19b34b02ebe81a7704b17115ad782fa7a"
+url = "https://cdn.modrinth.com/data/dpGsQIZg/versions/3SIjkGwE/itemeditor-1.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 8129716
+project-id = 1550857
+
+[update.modrinth]
+mod-id = "dpGsQIZg"
+version = "3SIjkGwE"

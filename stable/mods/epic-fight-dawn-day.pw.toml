@@ -1,0 +1,16 @@
+name = "Epic Fight: Dawn Day"
+filename = "EpicfightDd-20.14.1.16.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "11bc7d22655ed0a0a1d485f3a8e1ed163adbd67eaf5ce8a8d1eeab3cc31a40c97f3e348493ee9d61ac026bddbde5d69f866c209059e07bb1ebaec17a88c359e1"
+url = "https://cdn.modrinth.com/data/kY95MKf3/versions/aH0oyuk3/EpicfightDd-20.14.1.16.0.jar"
+[update]
+[update.curseforge]
+file-id = 8609560
+project-id = 1463482
+
+[update.modrinth]
+mod-id = "kY95MKf3"
+version = "aH0oyuk3"

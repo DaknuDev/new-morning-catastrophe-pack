@@ -1,0 +1,16 @@
+name = "Ancient Reforging"
+filename = "ancientreforging-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "3bfe1aee60b4a2b8d126f43ac0ac4214b16a257c651c97d2c48ca736f2b6708306dba431ce52e13061ee36c96c601cb1748888086f8df58fec1fa275bd9bb1e8"
+url = "https://cdn.modrinth.com/data/S8F0jey8/versions/TRWk7Zzs/ancientreforging-1.3.jar"
+[update]
+[update.curseforge]
+file-id = 5527109
+project-id = 985468
+
+[update.modrinth]
+mod-id = "S8F0jey8"
+version = "TRWk7Zzs"

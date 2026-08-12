@@ -1,0 +1,16 @@
+name = "Tinkers' Compatibility"
+filename = "tcompat-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "3d3bbdac48e0bae640c36cc55c572a1529f30b8f39e9c67d5ac80f0507c71579a4fea42a08fa87826c239293cb06cef71671ded82ef396ae094839cb9b3d22c4"
+url = "https://cdn.modrinth.com/data/7dqAlUms/versions/uJBONisg/tcompat-1.20.1-2.0.3.jar"
+[update]
+[update.curseforge]
+file-id = 8399540
+project-id = 1201964
+
+[update.modrinth]
+mod-id = "7dqAlUms"
+version = "uJBONisg"

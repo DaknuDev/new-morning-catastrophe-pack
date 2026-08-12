@@ -1,0 +1,16 @@
+name = "EndingLibrary"
+filename = "EndingLibrary-1.20.1-2.1.19fix-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "16fba87da7ef4d91acdf695d0859d94f0c03e0eab20d4e356fe60ae67e9270f64680a46183a548cebc69b76de23b9267f2fa9c4a847c46e01f905dc63af34300"
+url = "https://cdn.modrinth.com/data/tMycyukv/versions/2svfLNAU/EndingLibrary-1.20.1-2.1.19fix-all.jar"
+[update]
+[update.curseforge]
+file-id = 8292038
+project-id = 1471165
+
+[update.modrinth]
+mod-id = "tMycyukv"
+version = "2svfLNAU"

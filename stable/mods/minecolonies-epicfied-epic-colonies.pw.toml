@@ -1,0 +1,13 @@
+name = "Minecolonies: Epicfied (Epic Colonies)"
+filename = "EpicColonies-Forge-EFM-20.14.17-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c7cc9d3185643ab0c97b6a3ad59532f01e0c66f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8478040
+project-id = 1610923

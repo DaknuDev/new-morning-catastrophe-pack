@@ -1,0 +1,46 @@
+
+#Client VFX selection.
+#DEFAULT keeps the old priority: photon > aaa_particles > vanilla.
+#If the selected option is unavailable at runtime, the effect falls back to DEFAULT behavior. Example: choosing AAA_PARTICLE without aaa_particles installed will use DEFAULT routing.
+#All options default to DEFAULT.
+[vfx]
+	#Ender Glaive explosion
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	glaiveExplosion = "DEFAULT"
+	#Herobrine portal
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	herobrinePortal = "DEFAULT"
+	#Herobrine assistance
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	herobrineAssistance = "DEFAULT"
+	#Ender Aegis spark
+	#Allowed values: [DEFAULT, PHOTON, VANILLA]
+	enderAegisSpark = "DEFAULT"
+	#spawnEliteEffect / Elite Herobrine lightning
+	#Allowed values: [DEFAULT, PHOTON, VANILLA]
+	spawnEliteEffect = "DEFAULT"
+	#Blue Demon lightning
+	#Allowed values: [DEFAULT, PHOTON, VANILLA]
+	blueDemonLightning = "DEFAULT"
+	#Woopie Sword wind
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	woopieSwordWind = "DEFAULT"
+	#Black Fire
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	blackFire = "DEFAULT"
+	#Diamond Attractor
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	diamondAttractor = "DEFAULT"
+	#Teleport Portal (Photon: snakeportal)
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	teleportPortal = "DEFAULT"
+	#Herobrine Dragon beam
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	dragonBeam = "DEFAULT"
+	#Herobrine Dragon beam hit
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	dragonBeamHit = "DEFAULT"
+	#Blue Demon thunder beam
+	#Allowed values: [DEFAULT, PHOTON, AAA_PARTICLE, VANILLA]
+	blueDemonThunderBeam = "DEFAULT"
+

@@ -1,0 +1,8 @@
+{
+  "Version": "1",
+  "TrunkBonus": 2.0,
+  "FoliageHorizontalBonus": 1.5,
+  "FoliageVerticalBonus": 1.5,
+  "FoliageDecayRangeBonus": 1.5,
+  "LeavesNoLongerBlockLight": false
+}

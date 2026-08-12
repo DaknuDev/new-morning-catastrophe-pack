@@ -1,0 +1,33 @@
+
+#Explosions
+[Performance]
+	#Enables multithreading for raycasted explosions, making them run in parallel to the game. Adjust the number of threads to keep memory and CPU usage safe.
+	multithreadedExplosions = true
+	#Restricts the maximum amount of simultaneous explosions if multi-threaded explosions is enabled. Note that thread count per explosion will be chosen dynamically and cannot be edited. Excess explosions will be queued.
+	#Range: 1 ~ 20
+	maxExplosionThreads = 4
+	#Defines the radius at which explosions will be multi-threaded. For reference, TNTx500 = size 80, TNTx2000 = size 160, and TNTx10000 = size 300
+	#Range: 60 ~ 300
+	multithreadingThreshold = 90
+
+#Post explosions
+[Quality]
+	#En- or disables block light updates when using more performant explosions. Enabling this will make block lights update correctly at the cost of performance.
+	updateBlockLight = true
+	#Defines the radius at which explosions will stop perform blocks updates. This setting significantly impacts performance. For reference, Supernova has radius 200.
+	#Range: 30 ~ 300
+	blockUpdateRadius = 50
+
+#Debug settings
+[Debug]
+	#En- or disables the printing of benchmark results of explosions to the general chat.
+	benchmarkExplosions = false
+
+#Explosions
+[Deprecated]
+	#Whether or not an explosion should be used that has more performance at the cost of detail.
+	performantExplosion = true
+	#Higher values give more performance at the cost of details, lower values give more details at the cost of performance.
+	#Range: 0.3 ~ 0.6
+	explosionPerformanceFactor = 0.3
+

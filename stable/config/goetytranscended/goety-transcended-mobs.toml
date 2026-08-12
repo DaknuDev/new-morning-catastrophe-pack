@@ -1,0 +1,14 @@
+
+[Servants]
+
+	[Servants."Sculk Pylon"]
+		#How much Soul Energy it cost per second for a Servant to heal from Sculk Pylon, Default: 5
+		#Range: > 0
+		ServantsHealCost = 5
+		#How frequent Servants heal from Sculk Pylon, count seconds, Default: 1
+		#Range: > 0
+		ServantsHealTime = 1
+		#How much Health Servants heal from Sculk Pylon, numerically, Default: 5.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		ServantsHealAmount = 5.0
+

@@ -1,0 +1,16 @@
+name = "Goety Iron"
+filename = "GoetyIron-1.20.1Forge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "c9a476e6fe992361b221edef3d5862d49733e53ca4fed2d8b82b1b3df49f8f548b1ab78c16fa872acbdd2e911bffffa3d59278540bd3257cf3f1e3f8d6d02fa4"
+url = "https://cdn.modrinth.com/data/tZpynDu5/versions/QvSYOnxH/GoetyIron-1.20.1Forge-2.1.0.jar"
+[update]
+[update.curseforge]
+file-id = 8589956
+project-id = 1367643
+
+[update.modrinth]
+mod-id = "tZpynDu5"
+version = "QvSYOnxH"

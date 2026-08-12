@@ -1,0 +1,16 @@
+name = "Apprentice's Codex"
+filename = "apprentice_codex-0.9.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "c86c806355f3e23ff7b3d2eb15a7edbf7fb0b2812c9a6d72d5a14eaaba1dba21b9d0e88e264f590bce02612b61ce0804c95c65114ccb96c5c7d503a8d51a1334"
+url = "https://cdn.modrinth.com/data/MYxjEv5n/versions/heGoLyL0/apprentice_codex-0.9.6%2Bmc1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8512965
+project-id = 1450885
+
+[update.modrinth]
+mod-id = "MYxjEv5n"
+version = "heGoLyL0"

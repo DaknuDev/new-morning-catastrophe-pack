@@ -1,0 +1,13 @@
+name = "Goety Transcended"
+filename = "goetytranscended-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a1114d3eb8142ea87cb29d8fa12bb59f0b6b5e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8365618
+project-id = 1476403

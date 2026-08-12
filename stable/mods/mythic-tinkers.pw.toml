@@ -1,0 +1,16 @@
+name = "Mythic Tinkers"
+filename = "mythictinkers-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b2e497f60a54ec8e66cbe52d609bbe0af859865d0c73d17cb93e31fc48b611a49e6ca9a52c24a67490b92245d1606b8032ede5dc7626664034cd32f23e84ddea"
+url = "https://cdn.modrinth.com/data/HvAtimtU/versions/AsNcZmjK/mythictinkers-1.0.10.jar"
+[update]
+[update.curseforge]
+file-id = 8551642
+project-id = 1392126
+
+[update.modrinth]
+mod-id = "HvAtimtU"
+version = "AsNcZmjK"

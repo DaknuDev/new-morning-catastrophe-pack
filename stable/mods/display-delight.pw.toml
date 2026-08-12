@@ -1,0 +1,16 @@
+name = "Display Delight"
+filename = "displaydelight-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "649dda917f6c940b0b84d12c7e804e2e1b5880d9dff9ec8967b7f92630563f4689d1753635876c6e30dbe291549d585689f5a5a49701fc3a9984c80058da50cf"
+url = "https://cdn.modrinth.com/data/yXepZhp8/versions/fbMqu6gy/displaydelight-1.7.0.jar"
+[update]
+[update.curseforge]
+file-id = 8242933
+project-id = 1144296
+
+[update.modrinth]
+mod-id = "yXepZhp8"
+version = "fbMqu6gy"

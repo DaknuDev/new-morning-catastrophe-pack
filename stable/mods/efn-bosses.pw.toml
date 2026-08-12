@@ -1,0 +1,13 @@
+name = "Efn Bosses"
+filename = "efnbossesvjakr-1.8.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b983d10f6aa8c4bd4940a7060fc67660d5e77d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8407013
+project-id = 1529849

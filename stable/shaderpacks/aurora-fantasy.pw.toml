@@ -1,0 +1,18 @@
+name = "Aurora Fantasy"
+filename = "Aurora Fantasy.5.3.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7a054ace90cec431b43d4e07d1548fabc1e5a686"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8277336
+project-id = 1462750
+
+[option]
+optional = true
+default = false
+description = "Optional shader pack for capable client hardware."

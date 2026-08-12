@@ -1,0 +1,16 @@
+name = "Dungeons And Combat x Iron's Spells"
+filename = "dacxirons-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "a1613a67d46878be9de0bd8798b55af812382497fe2730f540bd9e15cc13c9a366861cf24ed42ae3e5e8ba0bb1b2fdd9bfdb629c9fe56161f8d726ddffb4cc3d"
+url = "https://cdn.modrinth.com/data/m0cRpuu6/versions/BT2oXI8t/dacxirons-1.5.4.jar"
+[update]
+[update.curseforge]
+file-id = 8021301
+project-id = 1286233
+
+[update.modrinth]
+mod-id = "m0cRpuu6"
+version = "BT2oXI8t"

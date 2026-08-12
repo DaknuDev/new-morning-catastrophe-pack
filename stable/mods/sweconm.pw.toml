@@ -1,0 +1,13 @@
+name = "Star Worm Economy and Markets (Player Shops)"
+filename = "sweconm-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09d37cd712f7b570f5369e29f8f92e46af47679e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7431532
+project-id = 839742

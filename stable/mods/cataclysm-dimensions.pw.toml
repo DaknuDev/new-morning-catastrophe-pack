@@ -1,0 +1,16 @@
+name = "Cataclysm Dimensions"
+filename = "cataclysm_dimension-forge1.20.1-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "19793440a3d671cbe32bb8968be38004b9bf37f77909948c58cf8dfa451625d9746220c337c6278601f1758e78cb72636cf021aba049051a63c4896bbdb3e060"
+url = "https://cdn.modrinth.com/data/JWCzrgCa/versions/nrCvbi2b/cataclysm_dimension-forge1.20.1-1.6.2.jar"
+[update]
+[update.curseforge]
+file-id = 7748030
+project-id = 1303494
+
+[update.modrinth]
+mod-id = "JWCzrgCa"
+version = "nrCvbi2b"

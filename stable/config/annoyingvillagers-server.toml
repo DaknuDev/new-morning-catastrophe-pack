@@ -1,0 +1,75 @@
+#Chance for Herobrine possess another player npc into Low Herobrine Clone
+#Range: 0.0 ~ 1.0
+herobrinePossessRate = 0.5
+#The minimum value (in minutes) for Herobrine's random recall time. This value should be lower than or equal the maximum. After a random time between min and max, Herobrine will vanish and return to the Herobrine dimension.
+#Range: 1 ~ 10080
+herobrineRecallMinTime = 60
+#The maximum value (in minutes) for Herobrine's random recall time. This value should be greater than or equal to the minimum. After a random time between min and max, Herobrine will vanish and return to the Herobrine dimension.
+#Range: 1 ~ 10080
+herobrineRecallMaxTime = 300
+#Chance for Steve to be Angry after getting killed
+#Range: 0.0 ~ 1.0
+angrySteveChance = 0.2
+#The minimum value (in minutes) for Angry Steve's random leave time. This value should be lower than or equal the maximum. After a random time between min and max, Angry Steve will feel exhausted and leave the game.
+#Range: 1 ~ 10080
+angrySteveLeaveMinTime = 60
+#The maximum value (in minutes) for Angry Steve's random leave time. This value should be greater than or equal to the minimum. After a random time between min and max, Angry Steve will feel exhausted and leave the game.
+#Range: 1 ~ 10080
+angrySteveLeaveMaxTime = 300
+#The minimum value (in minutes) for Blue Demon's random leave time. This value should be lower than or equal the maximum. After a random time between min and max, Blue Demon will feel bored and go away."
+#Range: 1 ~ 10080
+blueDemonLeaveMinTime = 60
+#The maximum value (in minutes) for Blue Demon's random leave time. This value should be greater than or equal to the minimum. After a random time between min and max, Blue Demon will feel bored and go away.
+#Range: 1 ~ 10080
+blueDemonLeaveMaxTime = 300
+#Make Trident Festival can break block
+tridentFestivalCanBreakBlock = true
+#[ONLY WORK WHEN EpicFight: KickSkill is installed] Min chance for mob can wake up automatically on guard break
+#Range: 0.0 ~ 1.0
+mobGuardBreakWakeUpMinChance = 0.05
+#[ONLY WORK WHEN EpicFight: KickSkill is installed] Max chance for mob can wake up automatically on guard break
+#Range: 0.0 ~ 1.0
+mobGuardBreakWakeUpMaxChance = 0.4
+#Turn on all chatting for NPC
+turnOnNpcChat = true
+#Turn on all voice for NPC
+turnOnNpcVoice = true
+#Make arrow can break block
+arrowCanBreakBlock = true
+#Make all of AV NPCs and Mobs can be executed
+canExecuteAvMob = true
+#Enable execute ability for all of Av NPCs and Mobs
+AvMobCanExecute = true
+#Enable burning items ability for all of Av NPCs and Mobs
+AvMobCanBurnItem = false
+#Enable drinking healing potion ability for Zombie and Skeleton
+VanillaMobCanDrinkHealingPotion = false
+#The value of durability lose of a weapon when Av Bosses blocking or clashing a dangerous animation or when Player clashing a dangerous animation by Av Bosses
+#Range: 0 ~ 10000
+weaponBreakingMechanismValue = 10
+#Living entity types whose held weapons can be disarmed
+affectedEntityTypes = ["minecraft:player", "minecraft:zombie", "minecraft:skeleton", "annoyingvillagers:player_npc", "annoyingvillagers:low_herobrine_clone", "annoyingvillagers:low_shadow_herobrine_clone", "annoyingvillagers:villager_scout", "annoyingvillagers:villager_scout_captain", "annoyingvillagers:blue_villager_general", "annoyingvillagers:green_villager_general", "annoyingvillagers:red_villager_general", "annoyingvillagers:purple_villager_general"]
+#Weapons/items that cannot be disarmed
+weaponBlacklist = ["minecraft:wooden_sword", "minecraft:wooden_shovel", "minecraft:wooden_pickaxe", "minecraft:wooden_axe", "minecraft:wooden_hoe", "minecraft:stone_sword", "minecraft:stone_shovel", "minecraft:stone_pickaxe", "minecraft:stone_axe", "minecraft:stone_hoe", "efn", "cataclysm", "wom:agony", "wom:tormented_mind", "wom:ruine", "wom:ender_blaster", "wom:antitheus", "wom:satsujin", "wom:herrscher", "wom:gesetz", "wom:moonless", "wom:solar", "wom:napoleon", "wom:evil_tachi", "wom:hollow_longsword", "wom:jabberwocky", "wom:nova", "wom:orbit", "wom:blackstar", "wom:nova", "wom:orbit", "wom:wooden_staff", "wom:stone_staff", "cdmoveset:yamato", "cdmoveset:s_wooden_spear", "cdmoveset:s_stone_spear", "cdmoveset:s_wooden_tachi", "cdmoveset:s_stone_tachi", "cdmoveset:s_wooden_sword", "cdmoveset:s_stone_sword", "cdmoveset:s_wooden_longsword", "cdmoveset:s_stone_longsword", "cdmoveset:s_wooden_greatsword", "cdmoveset:s_stone_greatsword", "epicfight:wooden_spear", "epicfight:stone_spear", "epicfight:wooden_tachi", "epicfight:stone_tachi", "epicfight:wooden_dagger", "epicfight:stone_dagger", "epicfight:wooden_greatsword", "epicfight:stone_greatsword", "annoyingvillagers:legendary_sword", "annoyingvillagers:demoniac_voltage_reaver", "annoyingvillagers:shadow_obsidian_weapon", "annoyingvillagers:obsidian_weapon", "annoyingvillagers:bedrock_weapon", "annoyingvillagers:crafting_table", "annoyingvillagers:wooden_door", "annoyingvillagers:ladder", "annoyingvillagers:trapdoor", "annoyingvillagers:null_weapon", "annoyingvillagers:shadow_obsidian_pillar", "annoyingvillagers:ender_glaive", "annoyingvillagers:ender_slayer_scythe", "annoyingvillagers:demoniac_voltage_reaver", "annoyingvillagers:obsidian_sledgehammer", "annoyingvillagers:shadow_obsidian_sword", "annoyingvillagers:warden_axe", "annoyingvillagers:blue_demon_trident", "annoyingvillagers:darkness_sword", "annoyingvillagers:red_steel_axe", "annoyingvillagers:holy_llama_hammer", "annoyingvillagers:woopie_the_sword", "annoyingvillagers:jessica_the_dark_shield"]
+
+#==== NPC Behaviour ====
+[npcBehaviour]
+	#Weight for Player NPC to target and attack all monsters in the world
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightMonsterHunter = 1.0
+	#Weight for Player NPC to target and attack all villagers in the world
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightVillagerHunter = 0.0
+	#Weight for Player NPC to target and attack players and other Player NPCs
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightPlayerHunter = 1.0
+	#Weight for Player NPC to target and attack everything in the world
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightHostileHunter = 1.0
+	#Weight for Player NPC to run away from everything in the world
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightPassiveHunter = 1.0
+	#Weight for Player NPC to target and attack all animals in the world
+	#Range: 0.0 ~ 10.0
+	npcTargetWeightAnimalHunter = 0.0
+

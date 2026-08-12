@@ -1,0 +1,30 @@
+{
+	member: {
+		name: "Member"
+		power: 1
+		condition: "always_active"
+	}
+	vip: {
+		name: "VIP"
+		power: 50
+		ftbranks.name_format: "&bVIP {name}"
+	}
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		ftbranks.name_format: "&2{name}"
+	}
+	creative_teleport_bypass: {
+		name: "Creative Teleport Bypass"
+		power: 1100
+		condition: "creative_mode"
+		ftbessentials.back.warmup: 0
+		ftbessentials.home.warmup: 0
+		ftbessentials.playerspawn.warmup: 0
+		ftbessentials.rtp.warmup: 0
+		ftbessentials.spawn.warmup: 0
+		ftbessentials.tpa.warmup: 0
+		ftbessentials.warp.warmup: 0
+	}
+}

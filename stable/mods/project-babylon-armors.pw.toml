@@ -1,0 +1,13 @@
+name = "Epic Fight: Project Babylon - Armors"
+filename = "project_babylon_armors-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6155c84d1670dbd9153e26beb2982ad790b02038"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8393731
+project-id = 1550525

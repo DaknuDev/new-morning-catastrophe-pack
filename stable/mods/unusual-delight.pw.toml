@@ -1,0 +1,13 @@
+name = "Unusual Delight (Hostile Delight)"
+filename = "unusual_delight-5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b14aec905158b9c5ff112fc43402ceda6abd0b9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8494412
+project-id = 896557

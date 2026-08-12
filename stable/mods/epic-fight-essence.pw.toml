@@ -1,0 +1,13 @@
+name = "Epic Fight : Essence"
+filename = "Essence-0.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11fd696a61690eb78e1524f99de2bf87d3ed3c04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8602565
+project-id = 1552063

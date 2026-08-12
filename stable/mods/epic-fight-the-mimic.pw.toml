@@ -1,0 +1,13 @@
+name = "Epic Fight - The Mimic"
+filename = "mimic-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58d1b6a24fc6123395fbb93a362761700b35323e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8602999
+project-id = 1360684

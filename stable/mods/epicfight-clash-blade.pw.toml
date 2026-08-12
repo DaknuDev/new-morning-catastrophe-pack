@@ -1,0 +1,16 @@
+name = "EpicFight : Clash Blade"
+filename = "Epicfight-ClashBlade-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "5dab70a09937394832b89abaab62bcfd82b3fe0e250674e9a01cf3375da40ddf3302cd9ba4b439e8c3c57a7fe60b5f795afbe8e90df884a1dc2530f08305eef3"
+url = "https://cdn.modrinth.com/data/QUlVgOPy/versions/3VpQ19j6/Epicfight-ClashBlade-1.20.1-2.1.jar"
+[update]
+[update.curseforge]
+file-id = 7973024
+project-id = 1408812
+
+[update.modrinth]
+mod-id = "QUlVgOPy"
+version = "3VpQ19j6"

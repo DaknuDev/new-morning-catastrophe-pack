@@ -1,0 +1,16 @@
+name = "Integrated Cataclysm"
+filename = "integrated_cataclysm_forge-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "7deeb07aaef980db4dde9f422def759b6c083bccc0e709e565f1240dd1a4aa9dac3617a2bab0f444138b904ead2b2e1f726d78f390e6de1ab2dd081f0d6676a4"
+url = "https://cdn.modrinth.com/data/ONbfwGTw/versions/zHNPJAHW/integrated_cataclysm_forge-1.0.5%2B1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 7046903
+project-id = 1164949
+
+[update.modrinth]
+mod-id = "ONbfwGTw"
+version = "zHNPJAHW"

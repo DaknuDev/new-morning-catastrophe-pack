@@ -1,0 +1,16 @@
+name = "Epic Fight x True Ending Compatibility"
+filename = "epicfight-trueending-compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "77e78acbb70ebbc7b957a3a1d2d05d5da5696b9ef0ef4776433eeceb9968fc30ff568648ae4d3a61305e19a51a5ce292b83da4fc7f8397ab0905854821c6f4f9"
+url = "https://cdn.modrinth.com/data/ATdqeKTG/versions/wk6hAeiy/epicfight-trueending-compat-1.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 7491790
+project-id = 1438066
+
+[update.modrinth]
+mod-id = "ATdqeKTG"
+version = "wk6hAeiy"

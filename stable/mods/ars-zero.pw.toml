@@ -1,0 +1,13 @@
+name = "Ars Zero"
+filename = "ars_zero-1.20.1-2.0.0-beta36.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4590719acfef7aa1c7f0dd6ece019d388cb9d583"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8337451
+project-id = 1377482

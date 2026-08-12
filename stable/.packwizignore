@@ -1,0 +1,27 @@
+# Pack metadata and developer files
+.git/
+.github/
+.packwizignore
+packwiz.exe
+
+# Generated or personal Minecraft data
+logs/
+crash-reports/
+screenshots/
+saves/
+local/
+xaero/
+.mixin.out/
+servers.dat
+servers.dat_old
+options.txt
+usercache.json
+usernamecache.json
+*.log
+
+# Generated per-installation credentials
+config/resourceful-config-web.json
+
+# Packwiz exports must not index themselves
+*.mrpack
+*-curseforge.zip
