@@ -58,10 +58,11 @@ the small amount of local data used by server players:
 3. Copy `servers.dat` from the old folder to the new folder. This preserves the
    saved names and addresses shown on the Multiplayer screen. It does not store
    character data or progression.
-4. Copy each Xaero folder that exists: `XaeroWaypoints/`, `XaeroWorldMap/`, or
-   `xaero/`. These preserve local waypoints and explored maps. If the new folder
-   already contains one with the same name, rename the new one with a `-backup`
-   suffix before copying the old one.
+4. Copy the root-level `xaero/` folder. For this pack, `xaero/minimap/` contains
+   local waypoint/minimap data and `xaero/world-map/` contains explored map
+   data. If the new instance already contains `xaero/`, rename that new folder
+   to `xaero-new-backup` before copying the old one. Do not copy
+   `config/xaero/`; Packwiz manages those configuration files.
 5. Optional: copy `options.txt` to retain keybinds and client preferences. It
    includes controls, audio, video, language, mouse, accessibility, and
    resource-pack selection. Skip it for fresh defaults or when changing to a
