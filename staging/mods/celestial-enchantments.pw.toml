@@ -1,0 +1,13 @@
+name = "Celestial Enchantments"
+filename = "celestial_enchantments-1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fc1e2613b65fbad44973c2831ac7319bdaba433"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8063841
+project-id = 988897

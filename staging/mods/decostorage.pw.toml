@@ -1,0 +1,16 @@
+name = "Decorative Storage"
+filename = "deco_storage-4.0606-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "737ed696f734f7915693204c7675305d1147065b087f2309ff149c7150686aa3a98184fb44e1c644cd9ec6e61bc048108af06d3cafba438ffb5e4ac80b72d110"
+url = "https://cdn.modrinth.com/data/DLpaTTzJ/versions/Jg83Nizr/deco_storage-4.0606-forge-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8284720
+project-id = 826577
+
+[update.modrinth]
+mod-id = "DLpaTTzJ"
+version = "Jg83Nizr"

@@ -1,0 +1,16 @@
+name = "Enhanced Celestials 2: Default Lunar Events"
+filename = "Enhanced-Celestials-2-Default-Lunar-Events-Forge-1.20.1-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "e51f6c20c8f849425646edc26d9863c44b31d8f696c012606e6a988282d2d30bf630aeee8df04a1c28f2b7702e394ee6c10cf3875a2a194cd77959bc908ddff7"
+url = "https://cdn.modrinth.com/data/19P0GlZk/versions/fLhauNIA/Enhanced-Celestials-2-Default-Lunar-Events-Forge-1.20.1-1.0.0.1.jar"
+[update]
+[update.curseforge]
+file-id = 8592230
+project-id = 1621820
+
+[update.modrinth]
+mod-id = "19P0GlZk"
+version = "fLhauNIA"

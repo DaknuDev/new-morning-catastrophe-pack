@@ -1,0 +1,16 @@
+name = "Item Manager "
+filename = "itemmanager-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4fff0d169ae6c42de502f32053344ad51fc7503b7fd4559d4e476d1c8e440e63a72f1c1382d2aa853ac0a98254524f55c37f603f29ac6d5d032e551d8905e60a"
+url = "https://cdn.modrinth.com/data/9A1d4Ka8/versions/FrLVth1Y/itemmanager-1.2.0.jar"
+[update]
+[update.curseforge]
+file-id = 8152288
+project-id = 1535075
+
+[update.modrinth]
+mod-id = "9A1d4Ka8"
+version = "FrLVth1Y"

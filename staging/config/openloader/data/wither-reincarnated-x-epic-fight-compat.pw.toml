@@ -1,0 +1,13 @@
+name = "Wither Reincarnated x Epic Fight Compat"
+filename = "dumbasswither.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81a1402b63521de07e868119a25f96cce8174c7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7569925
+project-id = 1452803

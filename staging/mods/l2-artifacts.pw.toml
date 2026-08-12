@@ -1,0 +1,13 @@
+name = "L2 Artifacts"
+filename = "l2artifacts-2.4.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2f7b43c6231e3281e278f8d4a9c05e3adfdf874"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6801939
+project-id = 659547

@@ -1,0 +1,16 @@
+name = "Goety Revelation"
+filename = "GoetyRevelation-2.3.3fix(1).jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "11c1f5c2411c00d92a2905280d6ad77c3e856bee5ded5efe4792e8538d97d67b251a000ad1f2c91c61c6cc8c2653c7a028ef7b14afd4ca06d549ab3c38d47091"
+url = "https://cdn.modrinth.com/data/VayV26Pa/versions/38pmrcYt/GoetyRevelation-2.3.3fix%281%29.jar"
+[update]
+[update.curseforge]
+file-id = 8311906
+project-id = 1236817
+
+[update.modrinth]
+mod-id = "VayV26Pa"
+version = "38pmrcYt"

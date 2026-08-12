@@ -1,0 +1,13 @@
+name = "Reldas Medieval Armor "
+filename = "Reldas+Medieval+Armor+1.20.1(2.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "babb490f72ee8da290d32a5552d45ca9a92fe2a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5936675
+project-id = 567671

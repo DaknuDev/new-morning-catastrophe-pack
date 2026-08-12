@@ -1,0 +1,13 @@
+name = "Sanctified Legacy - Iron's Spells Addon"
+filename = "covenant_of_the_seven-2.2.6-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "105a2402d7af9919182b3e7733194779a9a93dad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7821584
+project-id = 1368461

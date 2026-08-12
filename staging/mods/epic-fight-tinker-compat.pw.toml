@@ -1,0 +1,16 @@
+name = "Epic Fight: Tinkers Integration"
+filename = "epicfighttinkercompat-20.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8023a3cff47789852cc5d199a319fae79b32137e843100f37635ad20a8e71251447430d0d5476a5f079d77395dacf54e759628978ffcd8e524ead956435ff533"
+url = "https://cdn.modrinth.com/data/wN34gDMH/versions/RUBhOnn5/epicfighttinkercompat-20.2.7.jar"
+[update]
+[update.curseforge]
+file-id = 8527689
+project-id = 1491531
+
+[update.modrinth]
+mod-id = "wN34gDMH"
+version = "RUBhOnn5"

@@ -1,0 +1,16 @@
+name = "Starcatcher"
+filename = "starcatcher-2.3.19-FORGE-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "fbaadc4c91f10b42f341696d66f6caca5f2b5ffc77f1ff80c0baa1d6d71f5104fce2f636c2474e5648a40a7bfd14713416a2e7c1359cad305cf94b3eb951b4b9"
+url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/99MYui4e/starcatcher-2.3.19-FORGE-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8561383
+project-id = 1357603
+
+[update.modrinth]
+mod-id = "h2jXvxNR"
+version = "99MYui4e"

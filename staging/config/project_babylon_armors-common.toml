@@ -1,0 +1,5 @@
+
+[recipes]
+	#Enable vanilla armor crafting recipes and netherite armor upgrade recipes.
+	enable_vanilla_armor_recipes = true
+

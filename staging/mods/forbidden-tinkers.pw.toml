@@ -1,0 +1,16 @@
+name = "Forbidden Tinkers"
+filename = "forbiddentinkers-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f3a9cff4da4d133c2a2d8719dbc79e37144180e51bc226a19190287511252c1351f35c442f91fae39b30cc464825f71dbbd0bc078b3760429ee5572547c9a192"
+url = "https://cdn.modrinth.com/data/R1NTX93B/versions/WoiJEcbi/forbiddentinkers-1.0.4.jar"
+[update]
+[update.curseforge]
+file-id = 8588416
+project-id = 1481474
+
+[update.modrinth]
+mod-id = "R1NTX93B"
+version = "WoiJEcbi"

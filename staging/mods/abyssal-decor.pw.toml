@@ -1,0 +1,16 @@
+name = "Abyssal Decor"
+filename = "abyssal_decor_1.20.1_0.10.0_Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "86202d10b395ed68741b3e404e0acb87ae9c6f64a4f58881bb5d3a640b9d1ddf1d7ddb0404c7d1584ddd097bdcd9015b0629844512d356009b5fca3ddec89683"
+url = "https://cdn.modrinth.com/data/dzmhUvoY/versions/22FATe3S/abyssal_decor_1.20.1_0.10.0_Forge.jar"
+[update]
+[update.curseforge]
+file-id = 7859148
+project-id = 964853
+
+[update.modrinth]
+mod-id = "dzmhUvoY"
+version = "22FATe3S"

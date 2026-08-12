@@ -1,0 +1,13 @@
+name = "Dungeons And Combat"
+filename = "dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b08c97972e1561efd61aed2c6d5a8c339b20ec3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7193486
+project-id = 1128235

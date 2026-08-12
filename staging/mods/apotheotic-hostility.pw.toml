@@ -1,0 +1,13 @@
+name = "Apotheotic Hostility"
+filename = "apotheotic_hostility-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27215b44dc36f56cbe82f38ca618240f11d87c3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7866758
+project-id = 1468025

@@ -1,0 +1,16 @@
+name = "Player Mobs"
+filename = "PlayerMobs-1.20.1-4.1.0.37.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "971051e141d9c1cda426c60ceec0a082c8c55767c55fc049d0d179d6e9f8d5d62aee49abd14ca61b9f0864b93838248874bbe992cf9bc205b3fdf8dec40d6200"
+url = "https://cdn.modrinth.com/data/n38qCKN4/versions/9FZhJcbf/PlayerMobs-1.20.1-4.1.0.37.jar"
+[update]
+[update.curseforge]
+file-id = 5780869
+project-id = 430513
+
+[update.modrinth]
+mod-id = "n38qCKN4"
+version = "9FZhJcbf"

@@ -1,0 +1,13 @@
+name = "Jake's World Guard/Protection and Plots"
+filename = "jakesworldguard-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "345b01787fa38fb550b4e44a3d1f5bf2fe2f4268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8508495
+project-id = 1414247

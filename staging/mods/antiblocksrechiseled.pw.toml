@@ -1,0 +1,16 @@
+name = "AntiBlocksReChiseled"
+filename = "antiblocksrechiseled-0.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "7165a00c4c90b545a43d0770379469b58d68899534288d4195b1f77ae871c6df92ef82bc3ea1db435efd342e0cf82bfdaa8e06847c4d0fbf18f9adf9c19b7411"
+url = "https://cdn.modrinth.com/data/uLWeFJiL/versions/T8ekM3pE/antiblocksrechiseled-0.4.8.jar"
+[update]
+[update.curseforge]
+file-id = 6962887
+project-id = 715567
+
+[update.modrinth]
+mod-id = "uLWeFJiL"
+version = "T8ekM3pE"

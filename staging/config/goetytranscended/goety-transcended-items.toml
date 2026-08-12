@@ -1,0 +1,14 @@
+
+["Tools & Weapons"]
+
+	["Tools & Weapons".Scythes]
+		#How much damage Antireality Weaver deals, the configured number is added to Scythe Base Damage, Default: 6.5
+		#Range: 1.0 ~ 1.7976931348623157E308
+		antirealityWeaverDamage = 6.5
+		#How many uses before Antireality Weaver breaks, Default: 666
+		#Range: > 1
+		antirealityWeaverDurability = 666
+		#Define the Enchantability for Antireality Weaver, higher number the better, Default: 26
+		#Range: > 1
+		antirealityWeaverEnchantability = 26
+

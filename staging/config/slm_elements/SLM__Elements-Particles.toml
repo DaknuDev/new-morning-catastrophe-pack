@@ -1,0 +1,143 @@
+
+["Elemental Particle Text - Parms"]
+	#Life tome value as a general parameter when generating text particles for Elements
+	#Range: 20 ~ 80
+	lifeTimeKey = 20
+	#Scale value as a general parameter when generating text particles for Elements
+	#Range: 0.1 ~ 3.0
+	scaleKey = 0.5
+	#Radius value as a general parameter when generating text particles for Elements
+	#Range: 0.1 ~ 3.0
+	radiusKey = 1.0
+	#Vertical value as a general parameter when generating text particles for Elements
+	#Range: 0.1 ~ 3.0
+	verticalKey = 0.8
+	#Horizontal value as a general parameter when generating text particles for Elements
+	#Range: 0.1 ~ 3.0
+	horizontalKey = 1.0
+
+["Elemental Particle Text - Elements Colors"]
+	#Color parameter for Ignis
+	#Range: > -2147483648
+	ignisColorKey = 16729344
+	#Color parameter for Aqua
+	#Range: > -2147483648
+	aquaColorKey = 4367861
+	#Color parameter for Terra
+	#Range: > -2147483648
+	terraColorKey = 14729574
+	#Color parameter for Volt
+	#Range: > -2147483648
+	voltColorKey = 11010303
+	#Color parameter for Frost
+	#Range: > -2147483648
+	frostColorKey = 10082794
+	#Color parameter for Umbra
+	#Range: > -2147483648
+	umbraColorKey = 5921370
+	#Color parameter for Aero
+	#Range: > -2147483648
+	aeroColorKey = 16758489
+	#Color parameter for Lumen
+	#Range: > -2147483648
+	lumenColorKey = 16769162
+
+["Elemental Particle Text - Insta-Reactions Colors"]
+	#Color parameter for Frozen
+	#Range: > -2147483648
+	frozenColorKey = 58879
+	#Color parameter for Melted Inverse (Ignis → Frost = Melt)
+	#Range: > -2147483648
+	meltedInverseColorKey = 16758465
+	#Color parameter for Melted Direct (Frost → Ignis = Melt)
+	#Range: > -2147483648
+	meltedDirectColorKey = 14123375
+	#Color parameter for Overload Inverse (Volt → Ignis = Overload)
+	#Range: > -2147483648
+	overloadInverseColorKey = 8522530
+	#Color parameter for Overload Direct (Ignis → Volt = Overload)
+	#Range: > -2147483648
+	overloadDirectColorKey = 16729449
+	#Color parameter for Vaporized Inverse (Ignis → Aqua = Overload)
+	#Range: > -2147483648
+	vaporizedInverseColorKey = 16246210
+	#Color parameter for Vaporized Direct (Aqua → Ignis = Vaporized)
+	#Range: > -2147483648
+	vaporizedDirectColorKey = 12890767
+	#Color parameter for Flare (Lumen + Ignis = Flare)
+	#Range: > -2147483648
+	flareColorKey = -23737
+	#Color parameter for Purify (Lumen + Aqua = Purify)
+	#Range: > -2147483648
+	purifyColorKey = -1640449
+
+["Elemental Particle Text - OnTime-Reactions Colors"]
+	#Color parameter for Burning (Ignis + Terra = Burning)
+	#Range: > -2147483648
+	burningColorKey = 16747520
+	#Color parameter for Cold (Frost + Terra = Cold)
+	#Range: > -2147483648
+	coldColorKey = 11393254
+	#Color parameter for Electrocharged (Volt + Aqua = Electrocharged)
+	#Range: > -2147483648
+	electrochargedColorKey = 6765239
+	#Color parameter for Corruption (Umbra + Volt = Corruption)
+	#Range: > -2147483648
+	corruptionColorKey = -10864006
+	#Color parameter for Decay (Umbra + Terra = Decay)
+	#Range: > -2147483648
+	decayColorKey = -11911382
+
+["Elemental Particle Text - State-Reactions Colors"]
+	#Color parameter for Blizzard (Aero + Frost = Blizzard)
+	#Range: > -2147483648
+	blizzardColorKey = -3148299
+	#Color parameter for Duststorm (Aero + Terra = Duststorm)
+	#Range: > -2147483648
+	duststormColorKey = -2968436
+	#Color parameter for Eclipse (Lumen + Umbra = Eclipse)
+	#Range: > -2147483648
+	eclipseColorKey = -7570854
+	#Color parameter for Firestorm (Aero + Ignis = Firestorm)
+	#Range: > -2147483648
+	firestormColorKey = -30129
+	#Color parameter for Dusk (Aero + Umbra = Dusk)
+	#Range: > -2147483648
+	obscurityColorKey = -9539986
+	#Color parameter for Resplendence (Aero + Lumen = Resplendence)
+	#Range: > -2147483648
+	resplendenceColorKey = -5725
+	#Color parameter for Stormcall (Aero + Volt = Stormcall)
+	#Range: > -2147483648
+	stormcallColorKey = -3826689
+	#Color parameter for Whirlpool (Aero + Aqua = Whirlpool)
+	#Range: > -2147483648
+	whirlpoolColorKey = -6302721
+	#Color parameter for Conductor (Terra + Volt = Conductor)
+	#Range: > -2147483648
+	conductorColorKey = 8146431
+	#Color parameter for Conductor (Terra + Aqua = Rooted)
+	#Range: > -2147483648
+	rootedColorKey = 5025616
+	#Color parameter for Conductor (Frost + Volt = Superconductor)
+	#Range: > -2147483648
+	superConductorColorKey = 16747520
+	#Color parameter for Crystallize (Lumen + Terra = Crystallize)
+	#Range: > -2147483648
+	crystallizeColorKey = -1851269
+	#Color parameter for Drowning (Umbra + Aqua = Drowning)
+	#Range: > -2147483648
+	drowningColorKey = -13676689
+	#Color parameter for Hyperconductor (Frost + Lumen = Hyperconductor)
+	#Range: > -2147483648
+	hyperconductorColorKey = -4653057
+	#Color parameter for Lumishock (Volt + Lumen = Lumishock)
+	#Range: > -2147483648
+	lumishockColorKey = -2575105
+	#Color parameter for Shadowfrost (Frost + Umbra = Shadowfrost)
+	#Range: > -2147483648
+	shadowfrostColorKey = -10847622
+	#Color parameter for Shrivelled (Umbra + Ignis = Shrivelled)
+	#Range: > -2147483648
+	shrivelledColorKey = -7652821
+

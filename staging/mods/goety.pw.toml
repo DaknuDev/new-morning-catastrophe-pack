@@ -1,0 +1,16 @@
+name = "Goety - The Dark Arts"
+filename = "goety-2.5.56.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "534e03a6fd67172f66b85ef6f8609a2ce03964fa943dff9fb127c30ad943120aad8ec2db3e7475c0e60349184d72d2dd1116ca9105f6da26b8e6d0b815da0339"
+url = "https://cdn.modrinth.com/data/4ZVIxU8x/versions/ZQWmPrCt/goety-2.5.56.3.jar"
+[update]
+[update.curseforge]
+file-id = 8615791
+project-id = 586095
+
+[update.modrinth]
+mod-id = "4ZVIxU8x"
+version = "ZQWmPrCt"

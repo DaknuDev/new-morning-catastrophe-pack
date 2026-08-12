@@ -1,0 +1,16 @@
+name = "EpicFight Sword Light Modifications"
+filename = "zylob-forge1.20.1-20.14.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b091c152636503060db026fa5eedc5a866914dc7847e832b02de7562010091e7e95447c068bd3a44400848b482b2c01d9982e13f308f587e87c061cceeda6f0b"
+url = "https://cdn.modrinth.com/data/FxmeaUaC/versions/NCZuqqp2/zylob-forge1.20.1-20.14.10.jar"
+[update]
+[update.curseforge]
+file-id = 8623708
+project-id = 1299983
+
+[update.modrinth]
+mod-id = "FxmeaUaC"
+version = "NCZuqqp2"

@@ -1,0 +1,13 @@
+name = "Symphony of War"
+filename = "symphony_of_war-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abae12efa371868f1b63d4312c8855334cf836a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8076917
+project-id = 1541001

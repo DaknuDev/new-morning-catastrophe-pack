@@ -1,0 +1,16 @@
+name = "Babel Core"
+filename = "babel_core-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8f3b534f548afb861c466c22049e847578e3bb60f947437b71561448826e4e254251291379bb8cae504c44175c903d55734bd547fdb7a6a4601611e9418d23d7"
+url = "https://cdn.modrinth.com/data/ew9qW5hd/versions/RdMHoKYm/babel_core-1.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 8070013
+project-id = 1539615
+
+[update.modrinth]
+mod-id = "ew9qW5hd"
+version = "RdMHoKYm"

@@ -1,0 +1,16 @@
+name = "Goety Cataclysm"
+filename = "goety_cataclysm-1.20-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "fd7c03424e02cf65648662d5db54aada7999346d3e135e131c6c839aa6768e47f05b8ec171fcdd71db7c54c9cadd8dbc0872d16bde58fbf144a0a6a6c5af3a20"
+url = "https://cdn.modrinth.com/data/YwmuwbXi/versions/wqp995Iy/goety_cataclysm-1.20-1.8.2.jar"
+[update]
+[update.curseforge]
+file-id = 8106815
+project-id = 1224214
+
+[update.modrinth]
+mod-id = "YwmuwbXi"
+version = "wqp995Iy"

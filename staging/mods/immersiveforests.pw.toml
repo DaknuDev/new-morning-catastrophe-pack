@@ -1,0 +1,13 @@
+name = "ImmersiveForests"
+filename = "immersiveforests-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "856c1f24a0c5e62e6f226ab542a558f487801da6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7724428
+project-id = 1480002

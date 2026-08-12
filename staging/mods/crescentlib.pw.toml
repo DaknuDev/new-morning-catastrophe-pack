@@ -1,0 +1,16 @@
+name = "CrescentLib"
+filename = "crescentlib-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f6f77e4b7d99fea3f5a268a5bb3152b42b4c4c2eda3ace682152c42c0c88f62dc3bdbf23cf06472eb845e1d3fef9839f803956c108e4a79efa268abf02bd252b"
+url = "https://cdn.modrinth.com/data/vCPw3wHY/versions/BI1gANPq/crescentlib_port-1.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 5937973
+project-id = 1147883
+
+[update.modrinth]
+mod-id = "vCPw3wHY"
+version = "BI1gANPq"

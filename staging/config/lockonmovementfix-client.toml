@@ -1,0 +1,34 @@
+
+#Movement Settings
+[movement]
+	#Per-tick turn interpolation factor while moving (0.05-1.0, higher = snappier).
+	#Range: 0.05 ~ 1.0
+	turnSpeed = 0.45
+	#Per-tick turn interpolation factor while idle/attacking (0.05-1.0, higher = snappier).
+	#Range: 0.05 ~ 1.0
+	idleTurnSpeed = 0.7
+
+#Lock-On Range Settings
+[lockOnRange]
+	#Maximum lock-on range in blocks (overrides EpicFight's default).
+	#Range: 8 ~ 256
+	lockOnRange = 64
+
+#Behavior Settings
+[behavior]
+	#Auto-rotate the player to face the locked-on target while idle or guarding.
+	autoFaceTarget = true
+
+#Auto Lock-On Settings
+[autoLockOn]
+	#Exclude other players from auto-target switching.
+	filterPlayersFromAutoLockOn = true
+	#Degrees of camera movement required to flick to the next target (3-45).
+	#Range: 3.0 ~ 45.0
+	flickSensitivity = 8.0
+
+#Auto Lock-On: team / ally filter (vanilla Scoreboard teams + FTB Teams when installed)
+[teamFilter]
+	#Exclude vanilla Scoreboard team allies and FTB Teams allies (Ally rank or higher) from auto-target switching.
+	filterTeamAllies = true
+

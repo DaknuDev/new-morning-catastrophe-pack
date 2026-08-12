@@ -1,0 +1,16 @@
+name = "Apothic Category Compat"
+filename = "apothic_category_compat-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8e9e43c8c0126aa2907c3436aab163a938b6787085e776855e6060a6bb0a7a78a17865bf910c50e7e08cb5489e5c5b2c8d205dd81521bc5a68b37fd00ff50a50"
+url = "https://cdn.modrinth.com/data/Uonyc6M4/versions/35w4Gcta/apothic_category_compat-2.1.0.jar"
+[update]
+[update.curseforge]
+file-id = 8264060
+project-id = 1516278
+
+[update.modrinth]
+mod-id = "Uonyc6M4"
+version = "35w4Gcta"

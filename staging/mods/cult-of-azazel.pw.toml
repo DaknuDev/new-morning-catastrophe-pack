@@ -1,0 +1,16 @@
+name = "Cult of Azazel"
+filename = "cultofazazelforge-1.1.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f4bee653a9bc91b707f26c8811ec41cfd950bbd4f2e7fc72a26d948cd9818e0c77092efd196d483b0454e2b73c7be1fc5f168838bf3a55eda77ae0510942dfec"
+url = "https://cdn.modrinth.com/data/tnd2BYam/versions/TY9kTpdr/cultofazazelforge-1.1.4.11.jar"
+[update]
+[update.curseforge]
+file-id = 8603918
+project-id = 1571005
+
+[update.modrinth]
+mod-id = "tnd2BYam"
+version = "TY9kTpdr"

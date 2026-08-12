@@ -1,0 +1,16 @@
+name = "Butchery"
+filename = "butchery-5.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8a84cc02703801234c3233f0ed0555e026254bd4965c4b3ec235c9bee28e606d43157b9f2ea487efda32fc35f1296a47f297fe4e0c27e48b68bacd414dbdfbc8"
+url = "https://cdn.modrinth.com/data/6YfOmC9t/versions/cLCALXJ6/butchery-5.2-forge-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8536219
+project-id = 973620
+
+[update.modrinth]
+mod-id = "6YfOmC9t"
+version = "cLCALXJ6"

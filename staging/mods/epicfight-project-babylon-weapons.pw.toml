@@ -1,0 +1,13 @@
+name = "Epic Fight: Project Babylon - Weapons"
+filename = "project_babylon_weapons-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01c4f0258f26e15312f87d6a3780be08a1fc14e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8393909
+project-id = 1485770

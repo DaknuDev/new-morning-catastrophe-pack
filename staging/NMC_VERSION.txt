@@ -1,0 +1,3 @@
+New Morning: Catastrophe
+Channel: staging
+Version: 0.3.0-alpha.2

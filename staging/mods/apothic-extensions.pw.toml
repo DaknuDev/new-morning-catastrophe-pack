@@ -1,0 +1,13 @@
+name = "Apothic Extensions"
+filename = "apothic_extensions-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f16f4dfe5d116e44606b134d6a4bd1a989edf2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8020144
+project-id = 1494607

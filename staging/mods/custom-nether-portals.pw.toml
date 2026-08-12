@@ -1,0 +1,16 @@
+name = "Custom Nether Portals [Any Shape Nether Portals]"
+filename = "Custom Nether Portals - Forge - MC 1.20.1- 2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "96ced781c68f6d396e814e0daab29f8f59efd301d423b5e1caef4039c33e9207e2fe5220e486965b4e3ad9a9f4c38031cf4847ffd621981f2c16a2ac7d18d0db"
+url = "https://cdn.modrinth.com/data/2OCozLqc/versions/AxtORjGD/Custom%20Nether%20Portals%20-%20Forge%20-%20MC%201.20.1-%202.0.0.jar"
+[update]
+[update.curseforge]
+file-id = 8267124
+project-id = 1302224
+
+[update.modrinth]
+mod-id = "2OCozLqc"
+version = "AxtORjGD"

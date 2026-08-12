@@ -1,0 +1,27 @@
+# Default FTB Essentials overrides copied into new worlds.
+# Teleports are cancelled if the player moves or takes damage during the warmup.
+{
+	teleportation: {
+		back: {
+			warmup: 5
+		}
+		home: {
+			warmup: 5
+		}
+		playerspawn: {
+			warmup: 5
+		}
+		rtp: {
+			warmup: 5
+		}
+		spawn: {
+			warmup: 5
+		}
+		tpa: {
+			warmup: 5
+		}
+		warp: {
+			warmup: 5
+		}
+	}
+}

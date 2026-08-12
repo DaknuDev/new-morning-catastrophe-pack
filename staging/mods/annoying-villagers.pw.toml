@@ -1,0 +1,16 @@
+name = "Annoying Villagers"
+filename = "AnnoyingVillagers-1.20.1-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8d8da61a223d1d7d476227f2b6e93ba3309d56443302778a7144affdd6d4c92f63df8ebda3a9d4173edc7ffb755683be970e2d5c5a7c8a01f61b625db86fbb31"
+url = "https://cdn.modrinth.com/data/Oi7N0Tkn/versions/896AjsQK/AnnoyingVillagers-1.20.1-1.4.7.jar"
+[update]
+[update.curseforge]
+file-id = 8352272
+project-id = 1308998
+
+[update.modrinth]
+mod-id = "Oi7N0Tkn"
+version = "896AjsQK"

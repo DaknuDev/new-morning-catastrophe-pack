@@ -1,0 +1,16 @@
+name = "Ars Elixirum [Forge Edition]"
+filename = "elixirum-forge-1.20.1-0.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b3bd806d71427722f1032d8a44e5ee0fdfce49b4fd0ebaf9302f22c37e75dea60df743ed3582c6977bef8c2e71c65e77ec6cc96902041dc826e6c1a986866961"
+url = "https://cdn.modrinth.com/data/oYe4cXFm/versions/jVkzNhMS/elixirum-forge-1.20.1-0.12.0.jar"
+[update]
+[update.curseforge]
+file-id = 8041412
+project-id = 620870
+
+[update.modrinth]
+mod-id = "oYe4cXFm"
+version = "jVkzNhMS"

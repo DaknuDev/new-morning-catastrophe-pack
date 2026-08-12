@@ -1,0 +1,53 @@
+
+#TNT settings
+[Offsets]
+	#y offset of dropped projectiles
+	#Range: 60 ~ 400
+	dropHeight = 200
+
+#Disaster settings
+[Disasters]
+	#Maximum duration of disasters in minutes
+	#Range: 2 ~ 24
+	maximumTime = 12
+	#Multiplier for the destructive capabilities of disasters
+	#Range: 1.0 ~ 10.0
+	averageIntensity = 1.0
+
+#Custom TNT settings
+["First explosion"]
+	#Explosion effect of the first explosion
+	#Allowed Values: NO_EXPLOSION, NORMAL_EXPLOSION, SPHERICAL_EXPLOSION, CUBICAL_EXPLOSION, EASTER_EGG, FIREWORK
+	explosionType = "NO_EXPLOSION"
+	#Multiplier for the power of the first explosion
+	#Range: 1 ~ 20
+	explosionIntensity = 1
+
+["Second explosion"]
+	#Explosion effect of the second explosion
+	#Allowed Values: NO_EXPLOSION, NORMAL_EXPLOSION, SPHERICAL_EXPLOSION, CUBICAL_EXPLOSION, EASTER_EGG, FIREWORK
+	explosionType = "NO_EXPLOSION"
+	#Multiplier for the power of the second explosion
+	#Range: 1 ~ 20
+	explosionIntensity = 1
+
+["Third explosion"]
+	#Explosion effect of the third explosion
+	#Allowed Values: NO_EXPLOSION, NORMAL_EXPLOSION, SPHERICAL_EXPLOSION, CUBICAL_EXPLOSION, EASTER_EGG, FIREWORK
+	explosionType = "NO_EXPLOSION"
+	#Multiplier for the power of the third explosion
+	#Range: 1 ~ 20
+	explosionIntensity = 1
+
+#Special events settings
+["Event settings"]
+	#Whether season specific events ignore the date
+	seasonEventsAlwaysActive = false
+	#Whether the Present Drop destroys blocks
+	presentDropDestroy = true
+
+#Overlay settings
+["Render settings"]
+	#Whether an overlay is rendererd while the contaminated effect is active
+	renderContaminatedOverlay = true
+

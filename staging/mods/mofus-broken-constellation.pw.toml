@@ -1,0 +1,16 @@
+name = "Mofu's better end / Mofu's Broken Constellation "
+filename = "mofus_broken_constellation-0.9.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "1838835b6318e5f7526d5179300fd66eba8886fa6c81fd0b10bcdc4f95f0f91e5d59748f6de224c74e587842816cc09ab79780be9fbf32917fb13e97cfc5e074"
+url = "https://cdn.modrinth.com/data/X6yhW0Ki/versions/RKdHGypu/mofus_broken_constellation-0.9.0-forge-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 6377645
+project-id = 1106143
+
+[update.modrinth]
+mod-id = "X6yhW0Ki"
+version = "RKdHGypu"

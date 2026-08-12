@@ -1,0 +1,16 @@
+name = "Ender Storage 1.8.+"
+filename = "EnderStorage-1.20.1-2.11.0.188-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "10a14c81575a8f1827e0fae5b8d2ec477053b7f9962348233e9f6c5b3e92cd7a45ce0af3b67175d485636f8fed3a873177f8ccd7e19ef36b8391fb1c1f423e9a"
+url = "https://cdn.modrinth.com/data/BbrHg80P/versions/pTEnM5jC/EnderStorage-1.20.1-2.11.0.188-universal.jar"
+[update]
+[update.curseforge]
+file-id = 5292573
+project-id = 245174
+
+[update.modrinth]
+mod-id = "BbrHg80P"
+version = "pTEnM5jC"

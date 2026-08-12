@@ -1,0 +1,85 @@
+
+[Spells]
+
+	[Spells."Snowgrave Spell"]
+		#Snowgrave Spell Cost, Default: 7000
+		#Range: > 0
+		snowgraveCost = 7000
+		#Time to cast Snowgrave Spell, Default: 50
+		#Range: 0 ~ 72000
+		snowgraveTime = 50
+		#Snowgrave Spell Cooldown, Default: 280
+		#Range: > 0
+		snowgraveCoolDown = 280
+		#Snowgrave default radius, Default: 2.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		snowgraveRadius = 2.0
+		#Snowgrave Spell Damage, Default: 7.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		snowgraveDamage = 7.0
+
+	[Spells."Fantasy Seal Spell"]
+		#Fantasy Seal Spell Cost, Default: 7000
+		#Range: > 0
+		fantasysealCost = 7500
+		#Time to cast Fantasy Seal Spell, Default: 50
+		#Range: 0 ~ 72000
+		fantasysealTime = 50
+		#Fantasy Seal Spell Cooldown, Default: 280
+		#Range: > 0
+		fantasysealCoolDown = 300
+		#Fantasy Seal Spell Damage, Default: 7.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		fantasysealDamage = 15.0
+
+	[Spells."Crimson Swarm Spell"]
+		#Crimson Swarm Spell Cost, Default: 24
+		#Range: > 0
+		mosquitoCost = 24
+		#Time to cast Crimson Swarm Spell, Default: 100
+		#Range: 0 ~ 72000
+		mosquitoDuration = 100
+		#Crimson Swarm Spell Cooldown, Default: 200
+		#Range: > 0
+		mosquitoCoolDown = 200
+		#Crimson Swarm Spell Summon Down, Default: 400
+		#Range: 0 ~ 72000
+		mosquitoSummonDown = 400
+		#Number of Crimson Mosquito Servants that can exist around the player, Default: 8
+		#Range: > 1
+		mosquitoLimit = 8
+
+	[Spells."Soul Commitee Spell"]
+		#Soul Commitee Spell Cost, Default: 20
+		#Range: > 0
+		vultureCost = 20
+		#Time to cast Soul Commitee Spell, Default: 100
+		#Range: 0 ~ 72000
+		vultureDuration = 100
+		#Soul Commitee Spell Cooldown, Default: 200
+		#Range: > 0
+		vultureCoolDown = 200
+		#Soul Commitee Spell Summon Down, Default: 400
+		#Range: 0 ~ 72000
+		vultureSummonDown = 400
+		#Number of Soul Vulture Servants that can exist around the player, Default: 8
+		#Range: > 1
+		vultureLimit = 8
+
+		[Spells."Soul Commitee Spell"."Caniac Maniac Spell"]
+			#Caniac Maniac Spell Cost, Default: 32
+			#Range: > 0
+			caniacCost = 32
+			#Time to cast Caniac Maniac Spell, Default: 100
+			#Range: 0 ~ 72000
+			caniacDuration = 100
+			#Caniac Maniac Spell Cooldown, Default: 200
+			#Range: > 0
+			caniacCoolDown = 200
+			#Caniac Maniac Spell Summon Down, Default: 400
+			#Range: 0 ~ 72000
+			caniacSummonDown = 400
+			#Number of Caniac Servants that can exist around the player, Default: 8
+			#Range: > 1
+			caniacLimit = 8
+

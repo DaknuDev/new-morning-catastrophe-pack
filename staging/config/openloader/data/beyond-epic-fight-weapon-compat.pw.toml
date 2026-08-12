@@ -1,0 +1,13 @@
+name = "Beyond Epic Fight WEAPON compat"
+filename = "BEF_Weapon_Patch.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/foNNpWUi/versions/zzvoB06a/BEF_Weapon_Patch.zip"
+hash-format = "sha512"
+hash = "dcaf56547d495fa85bef6b6d92d933ae94bba9f15da1f2d8a6c80d0abba92b2d37a265302ac2c9d27d71ef200db18a6a088ea7175453bcfc640766206ceb1150"
+
+[update]
+[update.modrinth]
+mod-id = "foNNpWUi"
+version = "zzvoB06a"

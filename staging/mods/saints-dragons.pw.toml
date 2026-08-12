@@ -1,0 +1,16 @@
+name = "Saint's Dragons"
+filename = "saintsdragons-0.9.3+forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "087feafe66274964aa545a2beb53678c17a7f08b04fb9e48783448f69878057423b6a06d661f5d413ad3a073ee4218fa7f7dd094df8e33a42061057f4e5ffe00"
+url = "https://cdn.modrinth.com/data/rjcsjwEU/versions/1Mjlec0M/saintsdragons-0.9.3%2Bforge-1.20.1.jar"
+[update]
+[update.curseforge]
+file-id = 8614904
+project-id = 1358098
+
+[update.modrinth]
+mod-id = "rjcsjwEU"
+version = "1Mjlec0M"

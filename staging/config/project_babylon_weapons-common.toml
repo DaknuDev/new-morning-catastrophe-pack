@@ -1,0 +1,5 @@
+
+[recipes]
+	#Enable vanilla weapon and tool crafting recipes (not armor).
+	enable_vanilla_weapons_tools_recipes = true
+

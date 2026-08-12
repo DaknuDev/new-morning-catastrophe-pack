@@ -1,0 +1,13 @@
+name = "WoC: Remastered (Weapons of Cataclysm Remade/Epic Fight+WoM x L_Ender's Cataclysm)"
+filename = "WOC-Remastered-1.5.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837650f35cc52617d5558ccb38b1559f25aeee82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8352209
+project-id = 1216528
