@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "cce8a9a6a113375443aac1f744cbe4466fdd89305e7c4585744eb4146da06eab"
+hash = "69b18419ba45ee0531b0eb97b5a6b3c6c6fbb723639779c3a58a3a01d6e9970f"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -4255,7 +4255,7 @@ metafile = true
 
 [[files]]
 file = "mods/nmc_accessory_attribute_compat.jar"
-hash = "57ff14b19aae0f6a57fe11c2fcb42dd84f7d8172d4bb18c455c8c1d6c1107955"
+hash = "332c1de5d0f3556547e55548a2b0ae79d7143ecfa11957bad30c95314f473153"
 
 [[files]]
 file = "mods/nmc_annoyingvillagers_loot_audit.jar"
