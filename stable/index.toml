@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "23aea65a065193c8b41cdf18c890b248ddbfbdce7ff459816af4cb0611382b3f"
+hash = "cce8a9a6a113375443aac1f744cbe4466fdd89305e7c4585744eb4146da06eab"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
