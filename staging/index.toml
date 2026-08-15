@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "4a049668c32bbc8f3129e61cf8ad509e3c2ea45468ee8f3d417726b970068dfe"
+hash = "b8df57f2473ef19d79ddc273bad4b078622de84e1f10c7176b9a053d4625af58"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -82,7 +82,7 @@ hash = "f2170f5fc846826cce7f4e408bd031ec803ba199e0ebc3fd7e8c36452da57f9f"
 
 [[files]]
 file = "config/ae2/client.json"
-hash = "963acbfdc0b2bdcdadcc84dfc83c3e9cbb239ac37e00633e589e2195ea516c96"
+hash = "42a074be874bed17d82328da07a9ee299855e0ce02f2f38a7e4d634fe9493194"
 
 [[files]]
 file = "config/ae2/common.json"
