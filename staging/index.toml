@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "02d32e6680fe00c7f2ed28c81c21531acbeefd4fbd8a4cc69cc2a4b0505c7582"
+hash = "4a049668c32bbc8f3129e61cf8ad509e3c2ea45468ee8f3d417726b970068dfe"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -510,7 +510,7 @@ hash = "13d5e0c7d021507917733349919c27321d5c856fd9b5e6d7194dd7ec4e8b3cb5"
 
 [[files]]
 file = "config/annoyingvillagers-spawns.toml"
-hash = "46b6760aceb8c49893644111d7cdc5614070431a01c9bb5b04357ae82ebbb7d8"
+hash = "f56f4231da6ccab75dde96fe4aba6210ee1d9b7e2769a0eb765ed394d5ce663d"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"

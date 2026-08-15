@@ -1,53 +1,53 @@
 
 [spawning]
 	#Spawn config for Player NPC. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_player_npc = [1, 1, 1]
+	spawn_player_npc = [0, 1, 1]
 	#Spawn config for Villager Scout. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_villager_scout = [1, 1, 1]
+	spawn_villager_scout = [0, 1, 1]
 	#Spawn config for Villager Scout Captain. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_villager_scout_captain = [1, 1, 1]
+	spawn_villager_scout_captain = [0, 1, 1]
 	#Spawn config for Steve. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_steve = 1
+	spawn_steve = 0
 	#Spawn config for Alex. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_alex = 1
+	spawn_alex = 0
 	#Spawn config for Chris. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_chris = 1
+	spawn_chris = 0
 	#Spawn config for Blue Demon. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_blue_demon = 1
+	spawn_blue_demon = 0
 	#Spawn config for Netherite Herobrine. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_low_shadow_herobrine_clone = 1
+	spawn_low_shadow_herobrine_clone = 0
 	#Spawn config for Herobrine Clone. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_herobrine_clone = 1
+	spawn_herobrine_clone = 0
 	#Spawn config for Shadow Herobrine Clone. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_shadow_herobrine_clone = 1
+	spawn_shadow_herobrine_clone = 0
 	#Spawn config for Armored Herobrine. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_armored_herobrine = 1
+	spawn_armored_herobrine = 0
 	#Spawn config for Herobrine 7. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_herobrine_7 = 1
+	spawn_herobrine_7 = 0
 	#Spawn config for Herobrine Chris. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_herobrine_chris = 1
+	spawn_herobrine_chris = 0
 	#Spawn config for Herobrine Greg. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_herobrine_greg = 1
+	spawn_herobrine_greg = 0
 	#Spawn config for Purple Villager Knight. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_purple_villager_knight = [1, 1, 2]
+	spawn_purple_villager_knight = [0, 1, 2]
 	#Spawn config for Red Villager Knight. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_red_villager_knight = [1, 1, 2]
+	spawn_red_villager_knight = [0, 1, 2]
 	#Spawn config for Blue Villager Knight. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_blue_villager_knight = [1, 1, 2]
+	spawn_blue_villager_knight = [0, 1, 2]
 	#Spawn config for Green Villager Knight. Format: [weight, minCount, maxCount]. Weight is added to the spawn pool in each biome (higher = more common, 0 = disable). minCount/maxCount control group size
-	spawn_green_villager_knight = [1, 1, 2]
+	spawn_green_villager_knight = [0, 1, 2]
 	#Spawn config for Transporter Herobrine Clone. Format: weight (int). Weight is added to the spawn pool in each biome. Group size is fixed at 1 and is NOT configurable
 	#Range: 0 ~ 1000
-	spawn_transporter_herobrine_clone = 1
+	spawn_transporter_herobrine_clone = 0
 
