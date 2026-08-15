@@ -3981,11 +3981,6 @@ hash = "05795733839e33e8f31c342d9e76d82bd722e702015c727900be519062c5c348"
 metafile = true
 
 [[files]]
-file = "mods/inventoryhudplus.pw.toml"
-hash = "4836e47d6edbbf392ad4154699585d67712165710e23e11c70590e793a67f389"
-metafile = true
-
-[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "ab1f002d967eb456da29c5a2fe9e3a3cf70baa9901ba568c3fc7c8c899641804"
 metafile = true
