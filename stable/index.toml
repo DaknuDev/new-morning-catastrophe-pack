@@ -1397,10 +1397,6 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
 hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "0adb13ce5f7639e8351c15efd88203b97d25621af0b621f84877bb6ed1359c23"
-
-[[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
 hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
 

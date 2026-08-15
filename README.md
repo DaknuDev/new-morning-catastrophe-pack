@@ -86,12 +86,18 @@ Do not copy `mods/`, `config/`, `defaultconfigs/`, `kubejs/`, `datapacks/`,
   not sufficient for changes with gameplay or world-generation risk.
 - Promote by copying the already-tested staging tree to stable without changing
   files during the copy.
+- Before promotion, compare the proposed server mod list with the last
+  known-good server and ensure every Packwiz `side = "both"` mod uses the same
+  client/server version. Test an actual join from both Prism channels; server
+  startup alone does not detect mismatched required network channels.
 - Keep `.gitattributes` set to `* -text`. Packwiz hashes exact bytes, and Git
   line-ending normalization causes `Hash invalid!` installation failures.
 - Use official project metadata or URLs. Do not commit copied third-party JARs
   or optional resource packs without confirmed redistribution permission.
 - Never publish saves, logs, screenshots, accounts, server lists, personal
   options, map data, or generated credentials.
+- Do not publish generated caches such as
+  `config/crash_assistant/modlist.json`; they become stale after mod updates.
 
 The small `nmc_*` compatibility mods are maintained specifically for this
 modpack. Source and the full development workflow are maintained in the private

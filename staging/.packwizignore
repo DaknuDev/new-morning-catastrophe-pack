@@ -21,6 +21,7 @@ usernamecache.json
 
 # Generated per-installation credentials
 config/resourceful-config-web.json
+config/crash_assistant/modlist.json
 
 # Packwiz exports must not index themselves
 *.mrpack
