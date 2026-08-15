@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "474a015dc26d3655aae2d5d55cf18c88770b90656ef89bba59ee2750ee093a3d"
+hash = "02d32e6680fe00c7f2ed28c81c21531acbeefd4fbd8a4cc69cc2a4b0505c7582"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -4221,6 +4221,10 @@ hash = "332c1de5d0f3556547e55548a2b0ae79d7143ecfa11957bad30c95314f473153"
 [[files]]
 file = "mods/nmc_annoyingvillagers_loot_audit.jar"
 hash = "e9f419222cb80cea2cc85a8e89daad0657d310f2fe1a5e210da3c33ade81fc62"
+
+[[files]]
+file = "mods/nmc_cyclic_jei_compat.jar"
+hash = "18a60fecfaf0b0f5329ba9e8033ca340bf13145edcd82693400a1e6792487701"
 
 [[files]]
 file = "mods/nmc_hostile_vehicle_compat.jar"
