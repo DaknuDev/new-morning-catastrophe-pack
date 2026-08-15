@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "b0e6da104727287259cc33d6847b8ff0f6ae72c36638049bc620871a2777b3dd"
+hash = "4e61efa449be0cc56e2939a669ede00cc8680631d13ef7821cb947973d0708aa"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -2023,14 +2023,6 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "c056a537b6cbc9cf4c49f29ec98480537a68932e412f7c5dbd7f0a70bee69ce4"
-
-[[files]]
-file = "config/luckytntlib-common.toml"
-hash = "c3d377e155e0e48abf443e4e94c7f77474ac62b220214e4aa8b9a30eeeba5ff3"
-
-[[files]]
-file = "config/luckytntmod-common.toml"
-hash = "204a8c0c2b8384f348023417937761ccda2a2b8463b6d243f38ace1fddc75275"
 
 [[files]]
 file = "config/lunarshaders-client.toml"
@@ -4108,16 +4100,6 @@ hash = "e708cc733a529d4fe48b484476c47c7ed4bbaf55921cc2a786400afbdd42a02b"
 metafile = true
 
 [[files]]
-file = "mods/lucky-tnt-lib.pw.toml"
-hash = "39ec1d772f9a0d5171763d985408ca8471979ef795076a5592fe765ab3b2f1bf"
-metafile = true
-
-[[files]]
-file = "mods/luckytnt.pw.toml"
-hash = "f4639f0370dc5371e096f8d6b01874ceebec7a7fececacbd1656f57d74879fa5"
-metafile = true
-
-[[files]]
 file = "mods/macabre.pw.toml"
 hash = "12877047aaeb69a9b4ecd65c0ead6dff7b94f5831e5f63a173758fa0799f8bc9"
 metafile = true
@@ -4250,7 +4232,7 @@ hash = "98f1969f6476e84a3a049d5bc458061aa2f93d03fa9d2c13de971fe468cd5891"
 
 [[files]]
 file = "mods/nmc_tinkers_ore_harvest_compat.jar"
-hash = "1cb6094d7f05478c8eea89515cbc2f14a04c84687c740f0633431b9289697141"
+hash = "63849b89f64d2b74838c63b33040db1208c1783375b40bc4c9b2acb626946d58"
 
 [[files]]
 file = "mods/nmc_tome_epicfight_compat.jar"
