@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "69b18419ba45ee0531b0eb97b5a6b3c6c6fbb723639779c3a58a3a01d6e9970f"
+hash = "b0e6da104727287259cc33d6847b8ff0f6ae72c36638049bc620871a2777b3dd"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -1895,18 +1895,6 @@ hash = "c2a08237c5bc852a2fc359ab93816589d85dc03f59daac855fbf5bbe4ec3bddc"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "b9980f410277060434f6a0c70cefefad6b55ca4aed57b939ffefd7cf81eb7bf8"
-
-[[files]]
-file = "config/jakesworldguard/config.toml"
-hash = "2c016a5daa8c91ff992e217711060ba4e931376184a70046a3cd169235eb6a68"
-
-[[files]]
-file = "config/jakesworldguard/filtergroups/block_groups.json"
-hash = "79b2702fc73e5f7600ecdfbad276ff25a8de7041fd39465ecde40129b353fb07"
-
-[[files]]
-file = "config/jakesworldguard/filtergroups/entity_groups.json"
-hash = "21526be2f2410cf2ed18febfea42bd02f22b2e97b879a9d04a3ac804d7207265"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -4032,11 +4020,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "ab762bcc6307e96813789f64ae2f4288d8359b52a466735d50887fd92fc1d84d"
-metafile = true
-
-[[files]]
-file = "mods/jakes-world-protection-and-plots.pw.toml"
-hash = "e7430dca238a4722bed8364ac242cb059f15bc730c71ef95d37a9ccaedcb5c96"
 metafile = true
 
 [[files]]
