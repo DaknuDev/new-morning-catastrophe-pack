@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "0530437f280428458092f62892d5506231867518802430f09b5c7f009ea81e1a"
+hash = "fbf800e5fa65524db4f9103dc4c5991c7e46e1b9124fd4890f86c5daa6248660"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -2551,10 +2551,6 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6"
 
 [[files]]
-file = "config/sodiumextras-client.toml"
-hash = "aab69514e4b69280c14beeb0edc93bf084361fdc39ab673af13373fe0756ff86"
-
-[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
 
@@ -3985,6 +3981,11 @@ hash = "05795733839e33e8f31c342d9e76d82bd722e702015c727900be519062c5c348"
 metafile = true
 
 [[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "4836e47d6edbbf392ad4154699585d67712165710e23e11c70590e793a67f389"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "ab1f002d967eb456da29c5a2fe9e3a3cf70baa9901ba568c3fc7c8c899641804"
 metafile = true
@@ -4107,11 +4108,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "02ae5ce06c5ad0aba90dca4f415959ca8679e89dab584da124e36e6de5041f2d"
-metafile = true
-
-[[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "20200de68450cc0ed99fcb50a713d2dc5e0829dae1499dc093f432c04368c4b9"
 metafile = true
 
 [[files]]

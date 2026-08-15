@@ -1,11 +1,11 @@
 name = "New Morning: Catastrophe"
-version = "0.3.0-alpha.11"
+version = "0.3.0-alpha.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96e8306a727556ad865a03a7281a9ad16c3f34caaac2a23249ef989d5e711660"
+hash = "666943ea04617e61c4177a63ff665806638c3c7b328d7e35745ebaa9eaf63e21"
 
 [versions]
 forge = "47.4.10"
