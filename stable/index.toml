@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NMC_VERSION.txt"
-hash = "4e61efa449be0cc56e2939a669ede00cc8680631d13ef7821cb947973d0708aa"
+hash = "5fc15e308204caa11bfa13d69928c05b4851e81cce49c69565bae76a69336078"
 
 [[files]]
 file = "config/Butchery Alexs Mobs.toml"
@@ -4232,7 +4232,7 @@ hash = "98f1969f6476e84a3a049d5bc458061aa2f93d03fa9d2c13de971fe468cd5891"
 
 [[files]]
 file = "mods/nmc_tinkers_ore_harvest_compat.jar"
-hash = "63849b89f64d2b74838c63b33040db1208c1783375b40bc4c9b2acb626946d58"
+hash = "89a18ba6a17f821c9fa969dac5d5b82a6f94a3da0d0325a5f09cfb376386ff5e"
 
 [[files]]
 file = "mods/nmc_tome_epicfight_compat.jar"
